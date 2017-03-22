@@ -1,0 +1,13 @@
+package com.balaji.ms;
+
+import org.springframework.boot.SpringApplication;
+
+public class SecondService {
+
+	public static void main(String[] args) {
+		
+		System.setProperty("spring.config.name", "web-server");
+		SpringApplication.run(EurekaServiceRegistry.class, args);
+
+	}
+}

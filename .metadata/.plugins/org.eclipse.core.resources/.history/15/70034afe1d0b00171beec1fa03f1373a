@@ -1,0 +1,10 @@
+package com.balaji.ms.registry;
+
+public class EurekaServiceRegistry {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

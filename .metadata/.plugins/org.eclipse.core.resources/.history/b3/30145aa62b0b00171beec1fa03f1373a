@@ -1,0 +1,29 @@
+package com.balaji.ms;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+
+/*@SpringBootApplication
+@EnableEurekaClient*/
+public class SecondService {
+
+	public static void main(String[] args) {
+		
+/*		System.setProperty("spring.config.name", "web-server");
+		SpringApplication.run(EurekaServiceRegistry.class, args);*/
+		
+		String s1="balaji";
+		String s2="balaji";
+		
+		if(s1==s2)
+		{
+			System.out.println("True");
+		}
+		else
+		{
+			System.out.println("True");
+		}
+
+	}
+}

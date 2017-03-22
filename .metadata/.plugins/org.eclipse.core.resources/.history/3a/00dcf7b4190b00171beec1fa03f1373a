@@ -1,0 +1,17 @@
+package com.balaji.ms;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+
+@SpringBootApplication
+@EnableDiscoveryClient
+public class SampleserviceMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//System.setProperty("spring.config.name", "sample-service");
+		SpringApplication.run(SampleserviceMain.class, args);
+	}
+
+}

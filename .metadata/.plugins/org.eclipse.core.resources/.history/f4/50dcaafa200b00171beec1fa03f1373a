@@ -1,0 +1,10 @@
+package com.balaji.ms.order;
+
+public class OrderServiceMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

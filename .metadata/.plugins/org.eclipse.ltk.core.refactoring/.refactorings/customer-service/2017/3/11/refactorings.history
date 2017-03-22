@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;customer-service/src/main/resources/order-service.yml&apos; to &apos;customer-service.yml&apos;" description="Rename resource &apos;order-service.yml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/order-service.yml" name="customer-service.yml" stamp="1489762619372" updateReferences="true"/>
+</session>

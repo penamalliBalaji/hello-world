@@ -1,0 +1,5 @@
+package com.balaji.ms.order.controller;
+
+public class GetOrdersController {
+
+}

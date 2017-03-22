@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;SampleService/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;microservice-demo&apos;&#x0D;&#x0A;- Destination element: &apos;SampleService/src/main/resources&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     web-server.yml&#x0D;&#x0A;     accounts-server.yml" description="Copy files" destination="=SampleService/src\/main\/resources" element1="src/main/resources/web-server.yml" element2="src/main/resources/accounts-server.yml" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1489756844923" units="0" version="1.0"/>
+</session>
